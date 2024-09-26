@@ -1,0 +1,25 @@
+.main-bg{
+    background-color: whitesmoke;
+    height: 100%;
+    padding: 10px;
+}
+.heading{
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 70px;
+}
+p{
+    color: rgb(71, 0, 0);
+    font-family: "Roboto";
+    font-size: 25px;
+    font-style: ;
+}
+img{
+    border-radius: 30px;
+    border-color: aquamarine;
+    border-style: solid;
+}
+.down-div{
+    padding: 20px;
+}
